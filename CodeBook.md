@@ -1,4 +1,4 @@
-
+#Getting And Cleaning Data
 The original data was transformed by
 Merging the training and the test sets to create one data set.
 Extracting only the measurements on the mean and standard deviation for each measurement.
